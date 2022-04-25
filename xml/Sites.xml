@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<sites>
+
+    <site>
+        <nom>Apple Music</nom>
+        <lien adresse = "https://www.apple.com/apple-music/" />
+        <desc>
+        
+            Apple Music est un service de musique à la demande proposé par Apple, annoncé lors de 
+            la WWDC 2015 et qui concurrence les plateformes existantes. 
+            
+            Un système de radio y est disponible 24h/24 et 7j/7, il est disponible sur 
+            tous les appareils Apple ainsi qu'avec Siri, mais également sur Android, 
+            sur le web, Windows et Alexa.
+
+            Apple Music est actuellement disponible dans plus de 160 pays.
+
+            Le son y est encodé en AAC à 256 kbit/s ou en ALAC 16/24 bits (sans perte). 
+
+        </desc>
+    </site>
+
+    <site>
+        <nom>Deezer</nom>
+        <lien adresse = "https://www.deezer.com/" />
+        <desc>
+            Deezer est une plateforme française de distribution numérique dédiée 
+            à l'écoute de musique en streaming sous la forme d'un site web et d'applications mobiles, 
+            lancé en août 2007.
+
+            Le site web propose une formule gratuite permettant une écoute illimitée avec 
+            publicités sur ordinateur et tablette, mais aussi un abonnement offrant une écoute 
+            illimitée également sur mobile, de bonne qualité et sans publicités. 
+        
+        </desc>
+    </site>
+
+    <site>
+        <nom>Qobuz</nom>
+        <lien adresse = "https://www.qobuz.com/" />
+        <desc>
+
+            Service "made in France", celui-ci à la particularité
+            de proposer non seulement de la musique en streaming, mais aussi
+            en téléchargement.
+
+            Vous pourrez ainsi écouter votre musique sans connexion Internet après l'achat !
+
+            Les morceaux proposés sont disponibles en qualité CD, et en format Hi-Res, soit la meilleure qualité
+            possible.
+
+            Avec plus de 70 millions de titres, en haute qualité, 
+            il y a de quoi ravir tout le monde, exigant ou non !
+
+            Leurs services sont accessibles à partir de 12.5€ par mois,
+            sous un format Solo (1 compte), Duo (2 comptes), ou Famille (6 comptes).
+
+        </desc>
+    </site>
+
+    <site>
+        <nom>Spotify</nom>
+        <lien adresse = "https://www.spotify.com/" />
+        <desc>
+
+            Spotify est un service suédois de streaming musical sous la forme d'un logiciel 
+            propriétaire et d'un site web. 
+            
+            Cette plateforme de distribution numérique permet une écoute quasi instantanée 
+            de fichiers musicaux. Le catalogue peut être parcouru par artiste ou par album, 
+            et également grâce à une fonctionnalité de liste de lecture personnalisée.
+
+            Le service est disponible gratuitement avec des coupures publicitaires entre les morceaux, 
+            la version Premium permet d'écouter les morceaux hors-ligne et enlève les publicités. 
+
+
+        </desc>
+    </site>
+
+    <site>
+        <nom>Tidal</nom>
+        <lien adresse = "https://tidal.com/" />
+        <desc>
+
+            Tidal (stylisé en TIDAL et anciennement Tidal Hi-Fi) est un système de streaming musical 
+            à la demande avec abonnement. 
+            Il propose des chansons et des clips en haute qualité 
+            (les fichiers utilisent la compression de données audio sans perte). 
+            
+            En 2020, le catalogue de Tidal comptait 70 millions de titres et 250 000 clips. 
+            
+        </desc>
+    </site>
+
+</sites>
+
+

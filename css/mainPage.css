@@ -1,0 +1,72 @@
+h1, h2, h3, h4, a, p{
+    font-family: 'Quicksand', monospace;
+}
+
+h1, h2, h3{
+  color:red;
+}
+
+/* Lien vers site */
+a {
+  font-size: large;
+  text-indent: 10px;
+}
+
+/* Paragraphes + Description des sites*/
+p, h4 {
+    color: chocolate;
+    font-size: 25px;
+    font-style: italic;
+    font-weight: bold;
+    text-indent: 20px; 
+}
+  
+
+.bg {
+    animation:slide 30s ease-in-out infinite alternate;
+    background-image: linear-gradient(-60deg, rgb(185, 255, 214) 50%, rgb(6, 77, 124) 50%);
+    bottom:0;
+    left:-50%;
+    opacity:.5;
+    position:fixed;
+    right:-50%;
+    top:0;
+    z-index:-1;
+}
+  
+.bg2 {
+    animation-direction:alternate-reverse;
+    animation-duration:10s;
+}
+
+.bg3 {
+    animation-duration:10s;
+  }
+
+
+@keyframes slide {
+    0% {
+      transform:translateX(-25%);
+    }
+    100% {
+      transform:translateX(25%);
+    }
+  }
+
+
+/* Transition dès le clic sur la page */
+body{
+  animation: transitionIn 0.75s;
+}
+
+@keyframes transitionIn {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+
+
